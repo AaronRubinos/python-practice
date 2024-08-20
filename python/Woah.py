@@ -1,0 +1,5 @@
+print("Woah!", "Nani?", "Watashi", sep = "-", end=" ")
+print("EREEEHH!")
+print("Camille! I like you so much!")
+print("Pleeeeeaaaaaaseeee!!\n")
+print("MARRY ME!")
